@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">path_nav</string>
+    <string name="title_activity_list_train">ListTrainActivity</string>
+</resources>
